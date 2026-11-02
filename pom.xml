@@ -15,6 +15,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>21</maven.compiler.release>
+    <jacoco.skip>false</jacoco.skip>
 
   </properties>
 
